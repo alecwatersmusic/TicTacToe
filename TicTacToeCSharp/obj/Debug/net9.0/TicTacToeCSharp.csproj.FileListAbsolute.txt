@@ -1,0 +1,14 @@
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\bin\Debug\net9.0\TicTacToeCSharp.exe
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\bin\Debug\net9.0\TicTacToeCSharp.deps.json
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\bin\Debug\net9.0\TicTacToeCSharp.runtimeconfig.json
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\bin\Debug\net9.0\TicTacToeCSharp.dll
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\bin\Debug\net9.0\TicTacToeCSharp.pdb
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.AssemblyInfoInputs.cache
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.AssemblyInfo.cs
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.csproj.CoreCompileInputs.cache
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.dll
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\refint\TicTacToeCSharp.dll
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.pdb
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\TicTacToeCSharp.genruntimeconfig.cache
+E:\Users\stick\OneDrive\Old-Drive\Documents\Resumes\2025\Healthcare\PDS Health\SeniorDeveloperInnovations\Assessment\AlecWatersAssessment_TicTacToe\TicTacToeCSharp\obj\Debug\net9.0\ref\TicTacToeCSharp.dll
